@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="xlable.roopa" />
+          <option value="xlable.akshaya" />
+          <option value="xlable.suresh" />
+          <option value="xlable.priya" />
+          <option value="xlable.ramesh" />
+          <option value="mod2" />
+          <option value="mod1" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
